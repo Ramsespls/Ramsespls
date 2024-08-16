@@ -1,6 +1,8 @@
 <br clear="both">
 
-<p align="left">Hola a todos<br><br>Soy Ramses Vargas, Titulado en administracion de empresas incursionando desde hace un tiempo en el mundo TI. <br><br>Ultimamente me he estado capacitando en el desarrollo web full stack, sin embargo se me da bien el Front End preferentemente.<br> <br>Entre algunas de mis competencias están:</p>
+<p align="left">Hola a todos<br><br>Soy Ramses Vargas, Titulado en administracion de empresas incursionando desde hace un tiempo en el mundo TI. <br><br>Ultimamente me he estado capacitando en el desarrollo web full stack, sin embargo se me da bien el Front End preferentemente.<br> 
+<br>soy una persona centrada, metodica que busca seguir evolucionando en sus competencias dentro de la industria del desarrollo web <br>  
+<br>Entre algunas de mis competencias están:</p>
 
 ###
 
